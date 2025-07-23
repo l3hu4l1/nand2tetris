@@ -1,7 +1,7 @@
 ## assembler
 The Hack machine language consists of addressing instruction (A) and compute instruction (C):
 
-<img src="6/Screenshot 2025-07-23 at 11.56.26 PM.png" width="60%">
+<img src="Screenshot 2025-07-23 at 11.56.26 PM.png" width="60%">
 
 The assembler takes in assembly commands and emits the corresponding instructions.
 ```
